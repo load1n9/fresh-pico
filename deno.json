@@ -1,0 +1,12 @@
+{
+    "fmt": {
+        "options": {
+            "lineWidth": 160
+        }
+    },
+    "importMap": "./import_map.json",
+    "compilerOptions": {
+        "jsx": "react-jsx",
+        "jsxImportSource": "preact"
+    }
+}
